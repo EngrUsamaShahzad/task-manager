@@ -1,0 +1,3 @@
+Supabase_url = "https://ejpmpueurubqktbxyfcf.supabase.co"
+Supabase_Key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVqcG1wdWV1cnVicWt0Ynh5ZmNmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc1NjU0NTQsImV4cCI6MjA3MzE0MTQ1NH0.Kv-O0rr-4z35nBU-qsPFTQ_FVnYYQWtYP5V3oE8Ivu0"
+JWT_SECRET = "Q48G+c+u0mzT8jA+nC3ueufUf411Jvk3JgVylsBzj0BJ7ST0QfX+sK3JmyUC22+ip0wLIJPe5Sqnge09YTYllA=="
